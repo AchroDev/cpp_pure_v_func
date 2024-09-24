@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+// A "Pure Virtual Function" is an Interface or a class that consists of unemplemented methods (sort of like a template)
+
 // Example Entity class
 class Entity
 {
