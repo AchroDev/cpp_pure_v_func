@@ -35,7 +35,7 @@ void PrintName(Entity *entity)
 int main()
 {
     // created new Entity
-    Entity *e = new Entity; // Notice after changing the body of the GetName() method you can no longer instantiate the Entity
+    Entity *e = new Player(""); // However we can use a Player since we implemented GetName there
     // print the GetName from the Entity
     PrintName(e);
 
