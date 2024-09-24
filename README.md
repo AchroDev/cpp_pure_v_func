@@ -10,7 +10,7 @@
   <a href="https://github.com/AchroDev/cpp_pure_v_func">
     <img src ="resources/c++.svg" alt="Logo" width="150" height="150">
   </a>
-<h3 align="center"> C++ Pure Virtual Functions ~ AchroDev </h3>
+<h3 align="center"> C++ Pure Virtual Functions (Interfaces) ~ AchroDev </h3>
 
   <p align="center">
     How Pure Virtual Functions work in C++
